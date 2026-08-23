@@ -1,6 +1,5 @@
 # Leetcode-submissions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
+https://leetcode.com/u/urs_hrish1k/
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
