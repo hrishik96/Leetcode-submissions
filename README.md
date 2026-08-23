@@ -5,6 +5,7 @@ https://leetcode.com/u/urs_hrish1k/
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishik96/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/hrishik96/Leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -28,4 +29,12 @@ https://leetcode.com/u/urs_hrish1k/
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
