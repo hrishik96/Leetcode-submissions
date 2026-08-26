@@ -10,7 +10,6 @@ int missingMultiple(int* nums, int numsSize, int k) {
             }
         }
 
-
     }
     int res;
     for(int i=1;i<=numsSize+1;i++){
