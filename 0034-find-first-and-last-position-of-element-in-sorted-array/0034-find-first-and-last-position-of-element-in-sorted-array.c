@@ -25,7 +25,7 @@ int* searchRange(int* nums, int numsSize, int target, int* returnSize) {
     low=0;
     high=numsSize-1;
     while(low<=high){
-        int mid=low+(high-low)/2;
+        int mid=(low+high)/2;
         if(nums[mid]==target){
             arr[1]=mid;
             low=mid+1;
