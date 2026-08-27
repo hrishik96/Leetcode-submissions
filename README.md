@@ -5,6 +5,7 @@ https://leetcode.com/u/urs_hrish1k/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hrishik96/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishik96/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -42,6 +43,7 @@ https://leetcode.com/u/urs_hrish1k/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hrishik96/Leetcode-submissions/tree/master/0001-two-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrishik96/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
