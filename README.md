@@ -55,4 +55,12 @@ https://leetcode.com/u/urs_hrish1k/
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/hrishik96/Leetcode-submissions/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/hrishik96/Leetcode-submissions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
