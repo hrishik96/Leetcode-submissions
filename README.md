@@ -11,6 +11,7 @@ https://leetcode.com/u/urs_hrish1k/
 | [0088-merge-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishik96/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hrishik96/Leetcode-submissions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hrishik96/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hrishik96/Leetcode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -49,10 +50,12 @@ https://leetcode.com/u/urs_hrish1k/
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hrishik96/Leetcode-submissions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrishik96/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -70,4 +73,16 @@ https://leetcode.com/u/urs_hrish1k/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hrishik96/Leetcode-submissions/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
