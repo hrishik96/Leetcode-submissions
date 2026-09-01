@@ -10,6 +10,7 @@ https://leetcode.com/u/urs_hrish1k/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishik96/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/hrishik96/Leetcode-submissions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hrishik96/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hrishik96/Leetcode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -65,4 +66,8 @@ https://leetcode.com/u/urs_hrish1k/
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/hrishik96/Leetcode-submissions/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/hrishik96/Leetcode-submissions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
