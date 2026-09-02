@@ -18,6 +18,7 @@ https://leetcode.com/u/urs_hrish1k/
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hrishik96/Leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrishik96/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ https://leetcode.com/u/urs_hrish1k/
 | ------- |
 | [0189-rotate-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
