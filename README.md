@@ -87,4 +87,12 @@ https://leetcode.com/u/urs_hrish1k/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/hrishik96/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/hrishik96/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
