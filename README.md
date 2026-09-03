@@ -53,11 +53,13 @@ https://leetcode.com/u/urs_hrish1k/
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/hrishik96/Leetcode-submissions/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hrishik96/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/hrishik96/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrishik96/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -66,6 +68,7 @@ https://leetcode.com/u/urs_hrish1k/
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/hrishik96/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/hrishik96/Leetcode-submissions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -75,6 +78,7 @@ https://leetcode.com/u/urs_hrish1k/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hrishik96/Leetcode-submissions/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/hrishik96/Leetcode-submissions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
