@@ -27,6 +27,7 @@ https://leetcode.com/u/urs_hrish1k/
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0189-rotate-array) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/hrishik96/Leetcode-submissions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
