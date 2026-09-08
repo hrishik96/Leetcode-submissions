@@ -97,6 +97,7 @@ https://leetcode.com/u/urs_hrish1k/
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/hrishik96/Leetcode-submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/hrishik96/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hrishik96/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hrishik96/Leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
