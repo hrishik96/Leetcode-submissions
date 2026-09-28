@@ -15,6 +15,7 @@ https://leetcode.com/u/urs_hrish1k/
 | [0189-rotate-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hrishik96/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hrishik96/Leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hrishik96/Leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrishik96/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -63,6 +64,7 @@ https://leetcode.com/u/urs_hrish1k/
 | [0001-two-sum](https://github.com/hrishik96/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/hrishik96/Leetcode-submissions/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrishik96/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -106,4 +108,12 @@ https://leetcode.com/u/urs_hrish1k/
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/hrishik96/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hrishik96/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
