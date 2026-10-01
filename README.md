@@ -16,6 +16,7 @@ https://leetcode.com/u/urs_hrish1k/
 | [0283-move-zeroes](https://github.com/hrishik96/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hrishik96/Leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [1470-shuffle-the-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hrishik96/Leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/hrishik96/Leetcode-submissions/tree/master/1920-build-array-from-permutation) |
