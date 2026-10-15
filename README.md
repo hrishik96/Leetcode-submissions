@@ -24,6 +24,7 @@ https://leetcode.com/u/urs_hrish1k/
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hrishik96/Leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/hrishik96/Leetcode-submissions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrishik96/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -75,6 +76,7 @@ https://leetcode.com/u/urs_hrish1k/
 | [0217-contains-duplicate](https://github.com/hrishik96/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/hrishik96/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrishik96/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -136,4 +138,12 @@ https://leetcode.com/u/urs_hrish1k/
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/hrishik96/Leetcode-submissions/tree/master/1920-build-array-from-permutation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hrishik96/Leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
