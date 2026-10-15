@@ -8,6 +8,7 @@ https://leetcode.com/u/urs_hrish1k/
 | [0001-two-sum](https://github.com/hrishik96/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/hrishik96/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/hrishik96/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishik96/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hrishik96/Leetcode-submissions/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@ https://leetcode.com/u/urs_hrish1k/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hrishik96/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishik96/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
@@ -96,6 +98,7 @@ https://leetcode.com/u/urs_hrish1k/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hrishik96/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/hrishik96/Leetcode-submissions/tree/master/0169-majority-element) |
 ## Counting
 |  |
